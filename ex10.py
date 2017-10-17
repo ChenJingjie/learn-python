@@ -18,3 +18,6 @@ print fat_cat
 while True:
 	for i in ["/", "-", "|", "\\", "|"]:
 		print "%s\r" % i,
+
+# 笔记
+# %r调试用的，%s显示输出用的  
